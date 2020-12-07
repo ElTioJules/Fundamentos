@@ -12,9 +12,18 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>Arreglos.c</itemPath>
       <itemPath>Fibonacci.c</itemPath>
+      <itemPath>Funciones.c</itemPath>
+      <itemPath>Metodo_bubuja.c</itemPath>
+      <itemPath>Metodo_burbuja_decendente.c</itemPath>
+      <itemPath>Promedio_de_conjunto_de_datos.c</itemPath>
+      <itemPath>Scanf.c</itemPath>
+      <itemPath>TablasFor.c</itemPath>
+      <itemPath>Valores_min_max.c</itemPath>
       <itemPath>mayor3variables.c</itemPath>
       <itemPath>mayor4numeros.c</itemPath>
+      <itemPath>tablas.c</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Test Files"
@@ -38,7 +47,7 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="Fibonacci.c" ex="false" tool="0" flavor2="0">
+      <item path="Funciones.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -61,11 +70,29 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Arreglos.c" ex="false" tool="0" flavor2="0">
+      </item>
       <item path="Fibonacci.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Funciones.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Metodo_bubuja.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Metodo_burbuja_decendente.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Promedio_de_conjunto_de_datos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Scanf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="TablasFor.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Valores_min_max.c" ex="false" tool="0" flavor2="0">
       </item>
       <item path="mayor3variables.c" ex="false" tool="0" flavor2="0">
       </item>
       <item path="mayor4numeros.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="tablas.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
   </confs>
